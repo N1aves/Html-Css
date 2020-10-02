@@ -1,0 +1,9 @@
+<!DOCTYPE html> : Nos indica que se usara HTML 5
+<html lang "es">: Lang nos sirve para decirle al navegador que se usara lenguaje español o cualquier otro
+Existen etiquetas que se autocierran como DOCTYPE
+
+Head: Va todo lo que es importante del proyecto, pero no es visual para usuario final
+ejemplo, fuentes externas o css etc.
+
+Body: Texto Imagenes, videos o cosas interactivas con el usuario
+en el body se cargara todo lo que queremos hacer visible.}
