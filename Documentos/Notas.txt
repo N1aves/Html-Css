@@ -7,3 +7,13 @@ ejemplo, fuentes externas o css etc.
 
 Body: Texto Imagenes, videos o cosas interactivas con el usuario
 en el body se cargara todo lo que queremos hacer visible.}
+
+<meta charset="UTF-8"> : Nos ayuda para que el navegador entienda caracteres especiales, como acento o ñ
+
+<meta name="description" content="Esta pagina te mostrara fotos de gatitos">:
+<meta name="description" content: Nos ayuda a dejar una descricion general en la pagina web, en onde saldra en los buscadores de google
+<title>Titulo</title>: Crea titulo del proyecto
+<meta name="robots" content="index,follow"> Es para indicar que los robots de los navegadores busquen tu pagina, si se pusiera unfollow no la buscaria
+ <meta name="viewport" content="width=device-width, inicial-scale=1.0">
+ este meta es para que el texto se ajuste al tamaño del dispocitivo
+ 
