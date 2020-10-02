@@ -17,3 +17,4 @@ en el body se cargara todo lo que queremos hacer visible.}
  <meta name="viewport" content="width=device-width, inicial-scale=1.0">
  este meta es para que el texto se ajuste al tamaño del dispocitivo
  
+<link rel="stylesheet" href="./css/Estilos.css"> : Asi anexamos los Estilos
