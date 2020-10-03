@@ -17,4 +17,25 @@ en el body se cargara todo lo que queremos hacer visible.}
  <meta name="viewport" content="width=device-width, inicial-scale=1.0">
  este meta es para que el texto se ajuste al tamaño del dispocitivo
  
-<link rel="stylesheet" href="./css/Estilos.css"> : Asi anexamos los Estilos
+<link rel="stylesheet" href="./css/Est para parrafo
+ilos.css"> : Asi anexamos los Estilos
+ <header>: Se usan para encabezados
+            <nav></nav> se  usan por si hay barra de navegacion
+        </header>
+        
+        <div></div> contenedor comodin
+        
+        <p> </p> para parrafo
+        h1 titulo princippal
+
+        <a href="#" Soy un tiburon></a>: para enlaces
+
+Tamaño máximo recomendado para una imágen:
+
+70kb
+.
+Herramientas para optimizar imágenes:
+
+Tiny PNG: Comprime el tamaño de una imagen, para hacerla más ligera.
+
+Verefix: Elimina los metadatos de una imagen, para reducir su tamaño.
